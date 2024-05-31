@@ -1,6 +1,6 @@
 # Introduction
 
-The Vermouth Frontend is a user-facing dashboard designed to present the results of a deep learning anomaly detection model for satellite data. Key features include:
+The Vermouth Frontend is a statistical dashboard web application designed to display results from a deep learning anomaly detection model for satellite data:
 
 - Weekly and Daily Anomaly Reports: Provides detailed summaries of anomaly data on a weekly and daily basis for various satellite telemetries.
 
